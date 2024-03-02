@@ -26,7 +26,7 @@ export const SendMailService = ()=>{
 
 
           const mailOptions = {
-            from:'sarathrajan922@gmail.com',
+            from:'rashidps44@gmail.com',
             to: email,
             subject: 'OTP for Login',
             text: `Your OTP for login is: ${otp}`,

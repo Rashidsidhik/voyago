@@ -74,13 +74,13 @@ export default function AgentDashBoard(){
                       className="text-sm text-gray-900 dark:text-white"
                       role="none"
                     >
-                      Sarath
+                      Rashid
                     </p>
                     <p
                       className="text-sm font-medium text-gray-900 truncate dark:text-gray-300"
                       role="none"
                     >
-                      sarathagent@gmail.com
+                      rashidps44@gmail.com
                     </p>
                   </div>
                   <ul className="py-1" role="none">

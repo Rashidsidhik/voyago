@@ -26,7 +26,7 @@ const SendMailService = () => {
             otp = null;
         }, 120000);
         const mailOptions = {
-            from: 'sarathrajan922@gmail.com',
+            from: 'ras@gmail.com',
             to: email,
             subject: 'OTP for Login',
             text: `Your OTP for login is: ${otp}`,
